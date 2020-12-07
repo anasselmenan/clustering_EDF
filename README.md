@@ -1,4 +1,4 @@
-<h1 align="center">Projet de Clustering - EDF (sous R)</h1>
+<h1 align="center">Clustering - EDF (sous R)</h1>
 <!--<h2 align="center">Anass El Menan</h2>-->
 
 <!--# Projet EDF (sous R) -->
